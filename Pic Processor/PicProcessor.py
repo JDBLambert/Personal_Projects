@@ -1,4 +1,9 @@
-# Screenshot Processor for DoorDash
+# github.com/JDBLambert
+# 4/16/2021
+# Screenshot Processor for delivery app screenshots
+# requires several packages to be installed before running
+# Specifically pytesseract and PIL
+# Only meant to work for my specific circumstance
 
 import os
 import re
